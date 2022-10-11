@@ -1,6 +1,16 @@
 # Machine Learning（机器学习）
 
-[TOC]
+- [Machine Learning（机器学习）](#machine-learning机器学习)
+    - [1.什么是机器学习](#1什么是机器学习)
+    - [2.Different types of Functions（机器学习的不同类型）](#2different-types-of-functions机器学习的不同类型)
+    - [3.机器学习步骤](#3机器学习步骤)
+        - [1.Function with unknown parameters(写出一个带有未知参数的函数)](#1function-with-unknown-parameters写出一个带有未知参数的函数)
+        - [2.Define Loss from Training Data(确定评价标准，定义Loss函数)](#2define-loss-from-training-data确定评价标准定义loss函数)
+        - [3.Optimization(此处优化的方法为梯度下降Gradient decent)](#3optimization此处优化的方法为梯度下降gradient-decent)
+  - [Liner Model（线性模型）](#liner-model线性模型)
+    - [Piecewise Linear Curves（Sigmoid函数的意义）](#piecewise-linear-curvessigmoid函数的意义)
+        - [1.模型定义](#1模型定义)
+
 
 ### 1.什么是机器学习
 
